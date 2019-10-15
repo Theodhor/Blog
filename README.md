@@ -1,2 +1,0 @@
-# Blog
-A blog app
